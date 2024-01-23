@@ -1,2 +1,2 @@
 # primeiro_repo
-meu prmeiro repositorio
+meu primeiro repositorio
